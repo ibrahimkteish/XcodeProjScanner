@@ -16,14 +16,14 @@ OPTIONS:
 ## Example
 
 ```
-XcodeProjScanner --path /Users/ibrahimkoteish/Documents/Glovo/iOS/glovo-courier-ios/GlovoCourier --xcodeproj /Users/ibrahimkoteish/Documents/Glovo/iOS/glovo-courier-ios/GlovoCourier/GlovoCourier.xcodeproj/project.pbxproj
+XcodeProjScanner --path /Users/ibrahimkoteish/Documents/Projects/iOS/MyProject --xcodeproj /Users/ibrahimkoteish/Documents/Projects/iOS/MyProject/Myproject.xcodeproj/project.pbxproj
 
 ```
 
 or 
 
 ```
-XcodeProjScanner --path /Users/ibrahimkoteish/Documents/Glovo/iOS/glovo-courier-ios/GlovoCourier
+XcodeProjScanner --path /Users/ibrahimkoteish/Documents/Projects/iOS/MyProject
 
 ```
 
