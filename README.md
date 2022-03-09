@@ -12,3 +12,17 @@ OPTIONS:
   --xcodeproj <xcodeproj> Specify the iOS project .xcodeproj path (Optional)
   -h, --help              Show help information.
 ```
+
+## Example
+
+```
+XcodeProjScanner --path /Users/ibrahimkoteish/Documents/Glovo/iOS/glovo-courier-ios/GlovoCourier --xcodeproj /Users/ibrahimkoteish/Documents/Glovo/iOS/glovo-courier-ios/GlovoCourier/GlovoCourier.xcodeproj/project.pbxproj
+
+```
+
+or 
+
+```
+XcodeProjScanner --path /Users/ibrahimkoteish/Documents/Glovo/iOS/glovo-courier-ios/GlovoCourier
+
+```
