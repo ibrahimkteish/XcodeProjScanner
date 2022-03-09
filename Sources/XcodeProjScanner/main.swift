@@ -10,7 +10,7 @@ struct XcodeProjScanner: ParsableCommand {
   @Option(help: "Specify the iOS project path")
   var path: String
 
-  @Option(help: "Specify the iOS project .xcodeproj path (optional)")
+  @Option(help: "Specify the iOS project .xcodeproj/project.pbxproj path (optional)")
   var xcodeproj: String?
 
 
