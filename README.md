@@ -26,3 +26,15 @@ or
 XcodeProjScanner --path /Users/ibrahimkoteish/Documents/Glovo/iOS/glovo-courier-ios/GlovoCourier
 
 ```
+
+## Build the project
+
+1. open terminal 
+2. check out this project
+3. cd into `XcodeProjScanner`
+4. run swift build
+5. run `./.build/debug/XcodeProjScanner --path <a-valid-path> --xcodeproj <a-valid-path-for-xcodeproj/project.pbxproj>`
+
+## Xcode
+
+after checking out and cd in the project folder, you can  run `xed .` from terminal to open the project in xcode.
