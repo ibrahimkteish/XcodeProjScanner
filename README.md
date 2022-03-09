@@ -9,7 +9,7 @@ The main goal of this tool is to scan an iOS project and try to find all the unr
 ```
 OPTIONS:
   --path <path>           Specify the iOS project path
-  --xcodeproj <xcodeproj> Specify the iOS project .xcodeproj path (Optional)
+  --xcodeproj <xcodeproj> Specify the iOS project .xcodeproj/project.pbxproj path (Optional)
   -h, --help              Show help information.
 ```
 
